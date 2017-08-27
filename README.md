@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+it is a repository of a real estate agency website.
 
 # Project Goals
 
